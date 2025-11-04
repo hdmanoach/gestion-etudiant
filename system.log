@@ -1,0 +1,111 @@
+[2025-11-02 06:02:14] [Utilisateur #2] [deconnexion] L'utilisateur admin s'est déconnecté.
+[2025-11-02 06:02:27] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 06:02:45] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 06:03:06] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-02 06:03:20] [Utilisateur #1] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-02 06:05:06] [Utilisateur #1] [deconnexion] L'utilisateur dodo s'est déconnecté.
+[2025-11-02 06:05:15] [Système] [demande_verification] Code envoyé à l’utilisateur admin
+[2025-11-02 06:05:31] [Système] [envoi_code_verification] Code envoyé à manoach456@gmail.com pour admin
+[2025-11-02 06:05:37] [Système] [envoi_code_verification] Code envoyé à manoach456@gmail.com pour admin
+[2025-11-02 06:06:00] [Système] [verification_reussie] Connexion réussie pour admin
+[2025-11-02 06:58:41] [Utilisateur #2] [modifier_etudiant] Étudiant modifié : Barack Obama, ID : 3
+[2025-11-02 12:23:50] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-02 12:28:08] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-02 14:07:59] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-02 14:12:09] [Utilisateur #1] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-02 14:14:38] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-02 14:20:57] [Utilisateur #1] [deconnexion] L'utilisateur dodo s'est déconnecté.
+[2025-11-02 14:21:27] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:21:56] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:23:07] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-02 14:33:09] [Utilisateur #1] [deconnexion] L'utilisateur dodo s'est déconnecté.
+[2025-11-02 14:33:18] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:33:33] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:40:31] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:46:00] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:51:26] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:51:45] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 14:52:04] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:52:45] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-02 14:52:50] [Utilisateur #1] [deconnexion] L'utilisateur dodo s'est déconnecté.
+[2025-11-02 14:52:58] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:53:08] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:54:35] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 14:54:51] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:56:25] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:56:38] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 14:56:53] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 14:57:04] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 14:58:14] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:12:47] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:13:07] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:13:15] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 15:15:36] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:15:47] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 15:16:46] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 15:16:51] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 15:20:08] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:20:08] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 15:20:28] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:20:39] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 15:21:48] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:21:48] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 15:22:01] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:22:13] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 15:22:44] [Utilisateur #2] [deconnexion] L'utilisateur admin s'est déconnecté.
+[2025-11-02 15:22:54] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:23:05] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 15:24:41] [Système] [demande_verification] Code envoyé à l’utilisateur dodo
+[2025-11-02 15:24:41] [Système] [code_expire] Code expiré pour dodo
+[2025-11-02 15:45:58] [Système] [erreur_envoi_code] Erreur lors de l’envoi à manoachdodo@gmail.com : Invalid address:  (From): 
+[2025-11-02 15:46:44] [Système] [code_incorrect] Tentative avec code erroné par dodo
+[2025-11-02 15:55:37] [Système] [erreur_envoi_code] Erreur lors de l’envoi à manoachdodo@gmail.com : Invalid address:  (From): 
+[2025-11-02 16:05:12] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 16:05:41] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-02 16:08:33] [Utilisateur #1] [deconnexion] L'utilisateur dodo s'est déconnecté.
+[2025-11-02 16:08:48] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 16:09:59] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 16:11:07] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 16:11:28] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-02 21:08:32] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-02 21:09:57] [Système] [envoi_code_verification] Code envoyé à manoach456@gmail.com pour admin
+[2025-11-02 21:10:19] [Système] [verification_reussie] Connexion réussie pour admin
+2025-11-03 04:08:05 - Utilisateur 3 (shikamaru) ajouté par admin admin
+[2025-11-03 04:15:35] [Utilisateur #2] [modifier_utilisateur] Modification de l'utilisateur shikamaru
+[2025-11-03 04:16:13] [Utilisateur #2] [supprimer_utilisateur] Suppression de l'utilisateur shikamaru
+2025-11-03 04:21:58 - Utilisateur 4 (shikamaru) ajouté par admin admin
+[2025-11-03 04:22:24] [Utilisateur #2] [modifier_utilisateur] Modification de l'utilisateur shikamaru
+[2025-11-03 04:22:43] [Utilisateur #2] [supprimer_utilisateur] Suppression de l'utilisateur shikamaru
+[2025-11-03 04:39:33] [Utilisateur #2] [consultation_logs] Consultation des logs système
+[2025-11-03 04:39:40] [Utilisateur #2] [consultation_logs] Consultation des logs système
+[2025-11-03 05:37:16] [Utilisateur #2] [consultation_logs] Consultation des logs système
+[2025-11-03 05:37:24] [Utilisateur #2] [consultation_logs] Consultation des logs système
+[2025-11-03 05:42:01] [Utilisateur #2] [consultation_logs] Consultation des logs système
+[2025-11-03 07:40:06] [Utilisateur #2] [modifier_etudiant] Étudiant modifié : Biden Joe, ID : 4
+[2025-11-03 07:41:09] [Utilisateur #2] [modifier_etudiant] Étudiant modifié : Poutine Vladimir, ID : 6
+[2025-11-03 07:42:40] [Utilisateur #2] [modifier_etudiant] Étudiant modifié : Yoon Suk-yeol, ID : 10
+[2025-11-03 07:43:18] [Utilisateur #2] [modifier_etudiant] Étudiant modifié : Macron Emmanuel, ID : 5
+[2025-11-03 09:04:11] [Utilisateur #2] [modifier_etudiant] Étudiant modifié : López Obrador Andrés Manuel, ID : 9
+[2025-11-03 09:05:03] [Utilisateur #2] [Inscription Étudiant] Étudiant inscrit : Barack Obama en classe Licence 1 Gestion pour l'année 2024-2025
+[2025-11-03 09:05:05] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 09:05:32] [Utilisateur #2] [Inscription Étudiant] Étudiant inscrit : Biden Joe en classe Licence 2 Gestion pour l'année 2024-2025
+[2025-11-03 09:05:35] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 09:55:59] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 09:56:24] [Utilisateur #2] [Inscription Étudiant] Étudiant inscrit : DODO Manoach en classe Licence 3 Informmatique pour l'année 2025-2026
+[2025-11-03 09:56:27] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 09:59:14] [Utilisateur #2] [consultation_logs] Consultation des logs système
+[2025-11-03 10:00:42] [Utilisateur #2] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 11:10:50] [Utilisateur #2] [deconnexion] L'utilisateur admin s'est déconnecté.
+[2025-11-03 11:11:08] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-03 11:11:34] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-03 11:18:05] [Utilisateur #1] [enregistrer_note] Note 12.00 enregistrée pour Barack Obama en matière Comptabilité
+[2025-11-03 11:20:10] [Utilisateur #1] [Inscription Étudiant] Étudiant inscrit : Erdoğan Recep Tayyip en classe Licence 1 Gestion pour l'année 2024-2025
+[2025-11-03 11:20:12] [Utilisateur #1] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 11:20:48] [Utilisateur #1] [Inscription Étudiant] Étudiant inscrit : Mandela Nelson en classe Master 1 Gestion pour l'année 2021-2022
+[2025-11-03 11:20:50] [Utilisateur #1] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 11:22:54] [Utilisateur #1] [enregistrer_note] Note 12.25 enregistrée pour Erdoğan Recep Tayyip en matière Comptabilité
+[2025-11-03 11:36:37] [Utilisateur #1] [deconnexion] L'utilisateur dodo s'est déconnecté.
+[2025-11-03 11:38:22] [Système] [envoi_code_verification] Code envoyé à manoachdodo@gmail.com pour dodo
+[2025-11-03 11:38:50] [Système] [verification_reussie] Connexion réussie pour dodo
+[2025-11-03 11:40:23] [Utilisateur #1] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions
+[2025-11-03 11:40:39] [Utilisateur #1] [Consultation des inscriptions] L'utilisateur a consulté la liste des inscriptions avec filtres: année ID 6

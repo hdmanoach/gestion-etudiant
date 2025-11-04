@@ -43,7 +43,7 @@ Le projet a été développé en tenant compte des meilleures pratiques de sécu
 
 1.  Clonez le dépôt.
 2.  Configurez votre serveur web (Apache, Nginx) pour qu'il pointe vers le répertoire du projet.
-3.  Importez la base de données (schéma non inclus dans ce README).(pour le test username : dodo ,admin password: 12345 , 12345678 seule l'admin a le droit de creer un utilisateur)
+3.  Importez la base de données (schéma non inclus dans ce README).(Pour l'importer creer dabord la base de donnée comme nom ecole)(pour le test username : dodo ,admin password: 123456 , 12345678 seule l'admin a le droit de creer un utilisateur)
 4.  Configurez les variables d'environnement dans un fichier `.env` à la racine du projet (pour la base de données et les identifiants SMTP).
 5.  Installez les dépendances avec Composer : `composer install`
 

@@ -1,6 +1,6 @@
-# Gestion Étudiant (PHP RMS)
+# Gestion Étudiant
 
-Ce projet est une application web de gestion d'étudiants (RMS - Record Management System) développée en PHP. Elle permet de gérer les informations des étudiants, leurs inscriptions et leurs notes. L'application intègre plusieurs fonctionnalités de sécurité robustes pour protéger les données et contrôler les accès.
+Ce projet est une application web de gestion d'étudiants développée en PHP. Elle permet de gérer les informations des étudiants, leurs inscriptions et leurs notes. L'application intègre plusieurs fonctionnalités de sécurité robustes pour protéger les données et contrôler les accès.
 
 ## Fonctionnalités
 
